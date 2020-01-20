@@ -2,4 +2,6 @@
 
 > "Belajarlah kamu semua, dan mengajarlah kamu semua, dan hormatilah guru-gurumu, serta berlaku baiklah terhadap orang yang mengajarkanmu." (HR Tabrani).
 
-![Golang](https://miro.medium.com/max/1576/1*Ifpd_HtDiK9u6h68SZgNuA.png){:height="36px" width="36px"}
+![Golang](https://miro.medium.com/max/1576/1*Ifpd_HtDiK9u6h68SZgNuA.png)
+
+<img src="https://miro.medium.com/max/1576/1*Ifpd_HtDiK9u6h68SZgNuA.png" data-canonical-src="https://miro.medium.com/max/1576/1*Ifpd_HtDiK9u6h68SZgNuA.png" width="200" height="400" />
