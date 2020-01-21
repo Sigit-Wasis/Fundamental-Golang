@@ -9,3 +9,5 @@
 - [**Hello World**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/hello-world.go) 
 - [**Variabel**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/variable.go)
 - [**Tipe Data**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/tipe-data.go)
+- [**Konstanta**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/konstanta.go)
+- [**Operator**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/operator.go)
