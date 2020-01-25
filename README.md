@@ -11,3 +11,6 @@
 - [**Tipe Data**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/tipe-data.go)
 - [**Konstanta**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/konstanta.go)
 - [**Operator**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/operator.go)
+- [**Pengkondisian**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/kondisi.go)
+- [**Perulangan**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/perulangan.go)
+- [**Array**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/array.go)
