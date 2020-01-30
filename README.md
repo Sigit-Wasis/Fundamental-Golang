@@ -16,3 +16,4 @@
 - [**Array**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/array.go)
 - [**HTTP Server**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/http-server.go)
 - [**Slice**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/slice.go)
+- [**Map**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/map.go)
