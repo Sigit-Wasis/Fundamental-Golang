@@ -18,3 +18,4 @@
 - [**Slice**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/slice.go)
 - [**Map**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/map.go)
 - [**Fungsi**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/fungsi.go)
+- [**Fungsi Multiple Return**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/fungsi_multiple.go)
