@@ -20,3 +20,4 @@
 - [**Fungsi**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/fungsi.go)
 - [**Fungsi Multiple Return**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/fungsi_multiple.go)
 - [**Fungsi Variadic**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/fungsi_variadic.go)
+- [**Fungsi Closure**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/fungsi_closure.go)
