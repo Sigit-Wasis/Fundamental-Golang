@@ -1,0 +1,20 @@
+package main
+
+import "fmt"
+
+func main() {
+	var numberA int = 4
+	var numberB *int = &numberA
+
+	var numberC int = 5
+	var numberD *int = &numberC
+
+	fmt.Println("numberA (value)   :", numberA)  // 4
+	fmt.Println("numberA (address) :", &numberA) // 0xc20800a220
+
+	fmt.Println("numberB (value)   :", *numberB) // 4
+	fmt.Println("numberB (address) :", numberB)  // 0xc20800a220
+
+	fmt.Println("numberD (value)   :", *numberD) // 4
+	fmt.Println("numberD (address) :", numberD)  // 0xc20800a220
+}
