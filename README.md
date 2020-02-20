@@ -23,3 +23,4 @@
 - [**Fungsi Closure**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/fungsi_closure.go)
 - [**Pointer**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/pointer.go)
 - [**Struct**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/struct.go)
+- [**Method**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/method.go)
