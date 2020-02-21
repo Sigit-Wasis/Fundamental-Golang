@@ -24,3 +24,4 @@
 - [**Pointer**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/pointer.go)
 - [**Struct**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/struct.go)
 - [**Method**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/method.go)
+- [**Property Public dan Private**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/library/public_private.go)
