@@ -26,3 +26,4 @@
 - [**Method**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/method.go)
 - [**Property Public dan Private**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/library/public_private.go)
 - [**Reflect**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/reflect.go)
+- [**Goroutine**](https://github.com/Sigit-Wasis/Fundamental-Golang/blob/master/goroutine.go)
